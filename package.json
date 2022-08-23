@@ -1,5 +1,5 @@
 {
-  "name": "npm_package_boom",
+  "name": "mensajes-re-random",
   "version": "1.0.0",
   "description": "este repositorio va tener el aprendizaje de npm y un proyecto de creacion de librerias con npm",
   "main": "src/index.js",
