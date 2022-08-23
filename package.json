@@ -13,10 +13,10 @@
   ],
   "author": "Milton Elizalde alexmol_14@outlook.com",
   "license": "MIT",
-  "bin":{
-    "random-msg":"src/global.js"
+  "bin": {
+    "random-msg": "src/global.js"
   },
-  "preferGlobal":true,
+  "preferGlobal": true,
   "dependencies": {
     "moment": "^2.29.4",
     "webpack": "^5.74.0"
@@ -27,5 +27,15 @@
   "optionalDependencies": {
     "esliint": "*"
   },
-  "publishConfig":{"registry":"https://registry.npmjs.org/"}
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boomcrash/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/boomcrash/npm/issues"
+  },
+  "homepage": "https://github.com/boomcrash/npm#readme"
 }
