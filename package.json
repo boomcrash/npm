@@ -1,0 +1,31 @@
+{
+  "name": "npm_package_boom",
+  "version": "1.0.0",
+  "description": "este repositorio va tener el aprendizaje de npm y un proyecto de creacion de librerias con npm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Milton Elizalde alexmol_14@outlook.com",
+  "license": "MIT",
+  "bin":{
+    "random-msg":"src/global.js"
+  },
+  "preferGlobal":true,
+  "dependencies": {
+    "moment": "^2.29.4",
+    "webpack": "^5.74.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.29.1"
+  },
+  "optionalDependencies": {
+    "esliint": "*"
+  },
+  "publishConfig":{"registry":"https://registry.npmjs.org/"}
+}
