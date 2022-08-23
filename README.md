@@ -14,9 +14,9 @@ npm install -g mensajes-re-random
 # Usar
 
 ```bash
-random-msg
+mensajes-re-random
 ```
 
 
 # License
-mensjaes-re-random esta bajo la licencia : [MIT License](https://opensource.org/licenses/MIT).
+mensajes-re-random esta bajo la licencia : [MIT License](https://opensource.org/licenses/MIT).
