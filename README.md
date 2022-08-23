@@ -8,7 +8,7 @@ Este proyecto esta creado con el objetivo de que se suba como paquete a npm ofic
 ## Install
 
 ```npm
-npm install -g random-msg
+npm install -g mensajes-re-random
 ```
 
 # Usar
